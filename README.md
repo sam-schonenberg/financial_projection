@@ -45,13 +45,13 @@ Die Software unterstützt bei der Prognose von Umsätzen, Kosten und Liquidität
 
 ## 📊 Beispielergebnisse
 
-Hier eine Projektion der Kundenzahlen im realistischen Szenario:
+Hier eine Projektion der finanziellen Entwicklung im realistischen Szenario:
 
-![Customer Growth Projection](images/customer_projection_chart.png)
+<img width="2000" height="1200" alt="revenue_costs_profit_projection" src="https://github.com/user-attachments/assets/fcfbb97f-f150-41b3-afa3-279bdd70748d" />
 
-- **Blaue Linie** = Gesamtkunden  
-- **Orange Linie** = Neue Kunden pro Monat  
-- **Grüne Linie** = Kündigungen pro Monat  
+- **Blaue Linie** = Gesamter Umsatz pro Monat  
+- **Orange Linie** = Gesamtkosten pro Monat  
+- **Grüne Linie** = Monatlicher Gewinn/Verlust
 
 Diese Darstellung zeigt anschaulich, dass das Wachstum nicht nur geplant, sondern auf konkreten Annahmen basiert.
 
