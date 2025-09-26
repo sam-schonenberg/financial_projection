@@ -44,14 +44,16 @@ Die Software unterstützt bei der Prognose von Umsätzen, Kosten und Liquidität
 ---
 
 ## 📊 Beispielergebnisse
-(Screenshots oder Beispieltabellen einfügen, z. B. eine Übersicht von Umsatz, Kosten, Gewinn im ersten Jahr).  
 
-Beispiel:  
-| Monat | Kunden | Umsatz (€) | Kosten (€) | Gewinn/Verlust (€) |
-|-------|--------|------------|------------|---------------------|
-| Jan   | 10     | 600        | 1.200      | -600                |
-| Jun   | 80     | 5.200      | 3.800      | +1.400              |
-| Dez   | 150    | 10.500     | 6.200      | +4.300              |
+Hier eine Projektion der Kundenzahlen im realistischen Szenario:
+
+![Customer Growth Projection](images/customer_projection_chart.png)
+
+- **Blaue Linie** = Gesamtkunden  
+- **Orange Linie** = Neue Kunden pro Monat  
+- **Grüne Linie** = Kündigungen pro Monat  
+
+Diese Darstellung zeigt anschaulich, dass das Wachstum nicht nur geplant, sondern auf konkreten Annahmen basiert.
 
 ---
 
